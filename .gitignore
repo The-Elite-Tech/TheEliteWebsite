@@ -1,0 +1,65 @@
+# Node.js
+server/node_modules/
+sample.txt
+# /build
+# /dist
+# npm-debug.log
+# yarn-error.log
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+client/node_modules/
+# /packages/*/node_modules/
+
+# Build directories
+# /build/
+# /dist/
+
+# dotenv environment variable files
+client/.env
+server/.env
+# .env.development.local
+# .env.test.local
+# .env.production.local
+
+# Next.js
+# .next/
+# out/
+
+# Nuxt.js
+# .nuxt/
+# dist/
+
+# Gatsby files
+# .cache/
+# public/
+
+# Miscellaneous
+# .DS_Store
+# .eslintcache
+# .nuxt/
+# .vuepress/dist
+# .nyc_output
+# coverage
+
+# Optional npm cache directory
+# .npm
+
+# Optional eslint cache
+# .eslintcache
+
+# Microbundle
+# .rpt2_cache/
+# .rts2_cache_cjs/
+# .rts2_cache_es/
+# .rts2_cache_umd/
+
+# Mac System files
+# .DS_Store
+
+# Windows System files
+# Thumbs.db
+# ehthumbs.db
